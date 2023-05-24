@@ -88,7 +88,7 @@ body {font-size:16px;}
 
 <br><br>
 <center>
-<input type="button" class="button_active" onclick="location.href='http://sigj.atwebpages.com/doc/passw.php';">
+<input type="button" class="button_active" onclick="location.href='https://drkamthorn-whisperai.streamlit.app/';">
 
 <br><br>
 <!-- W3.CSS Container -->
